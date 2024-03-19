@@ -11,6 +11,12 @@ body {
     box-shadow: 10px 10px 5px #888888;
     margin-bottom: 30px;
     margin-top: 0px;
+    font-size: 48px;
+    text-align: center;
+}
+#fejlec {
+    background-image: url(notredame.jpg) ; height: 200px;
+   
 }
 
 h1 {
